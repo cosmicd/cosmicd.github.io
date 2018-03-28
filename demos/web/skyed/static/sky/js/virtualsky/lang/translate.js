@@ -227,7 +227,7 @@
 		$('#output').html(output);
 	}
 
-	/* From http://exceptionallyexceptionalexceptions.blogspot.co.uk/2011/12/convert-html-form-to-json.html */
+	/* From https://exceptionallyexceptionalexceptions.blogspot.co.uk/2011/12/convert-html-form-to-json.html */
 	$.fn.formToJSON = function(t) {
 
 		function setValue(object, path, value) {
